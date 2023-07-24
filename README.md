@@ -52,6 +52,4 @@ Data was balanced using SMOTE and Combined balancing techniques.
 
 Data was fitted in Logistic regression. The AUROC score was good. But the domain side of the data needed a decent F1 score to build a reliable model.
 
-Comparison and tuning of the models was done uisng Pycaret.
-
 Feature importances were analysed.

@@ -36,7 +36,7 @@ y - has the client subscribed to the insurance?
 
 **Minimum Requirements**
 
-It is not sufficient to just fit a model - the model must be analysed to find the important factors that contribute towards the conversion rate. AUROC must be used as a metric to evaluate the performance of the models.
+It is not sufficient to just fit a model - the model must be analysed to find the important factors that contribute towards the conversion rate. F1score must be used as a metric to evaluate the performance of the models.
 
 **Explanation**
 
